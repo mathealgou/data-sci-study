@@ -1,0 +1,25 @@
+What is text classification (Cole Stryker, IBM):
+https://www.ibm.com/think/topics/text-classification
+
+A comprehensive survey of text classification techniques and their 
+research applications: Observational and experimental insights (Kamal Taha a,
+ Paul D. Yoo, Chan Yeun, Dirar Homouz, 
+Aya Taha):
+https://www.sciencedirect.com/science/article/pii/S1574013724000480
+
+Text Classification Algorithms: A Survey (kk7nc):
+https://github.com/kk7nc/Text_Classification
+#The part about text pre-prossessing, as in cleaning and tokenization,
+#taught me a lot about separating what matters in text.
+
+
+Damerau–Levenshtein distance (Wikipedia):
+https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance
+#Measures the distance (why no call it difference????) between two strings. In theory, this 
+#can be used to create a dictionary based auto correct, since it could be used 
+#to classify which word from a set is the closest to a given sample. 
+#With enough data of known correct phrases, it could even be used with a 
+#little context from previous and following words in the sample text. Awfully slow, though.
+
+Trie (data structure) (Wikipedia):
+https://en.wikipedia.org/wiki/Trie
